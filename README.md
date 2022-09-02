@@ -9,3 +9,5 @@ Welcome to my github page. I am a software engineer student from the university 
 - Reading: I also enjoy reading novels during my free time.
 
 
+## Languages Known:
+```C++``` ```Python``` ```Java``` ```HTML``` ```CSS``` 
